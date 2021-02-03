@@ -21,5 +21,5 @@ git config --global user.email "$EMAIL"
 #### 13. Close all open VSC tabs and click on *File -> Open Folder* and choose your git repository (don't save workspace configuration). 
 #### 14. Make changes to your files, for example: edit the README, create new directories, create new PlatformIO projects.
 #### 15. Click on the branch symbol on the left side under the search icon and log VSC into your github account.
-#### 16. After that you should see a number on the branch icon, this means there are untracked changes. Click on it and then click the `checkmark` icon (commit). Always stage changes. Provide a meaningfull commit message, this will be visible on github and should describe what you have changed.
+#### 16. After that you should see a number on the branch icon, this means there are untracked changes. Click on it and then click the `checkmark` icon (commit). Always stage changes. Provide a meaningfull commit message, this will be visible on github and should describe what you have changed. Note that you can only upload and compile when a PIO project is directly opened and not it's parent directories.
 #### 17. Click on the right dots and the *push* to upload your commits to github.
