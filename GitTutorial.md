@@ -12,7 +12,7 @@ git config --global user.email "$EMAIL"
 ```
 #### 5. Generate an ssh-key by typing: `ssh-keygen` into the cmd and press enter several times to create a ssh-key.
 #### 6. Open the file in `/Users/$USERNAME/.ssh/id_rsa.pub` with the windows editor and copy everything. 
-#### 7. Go to github, click on you *account settings* -> *ssh and GPG keys*, *New SSH key* enter a name like *windows10* and paste the copied key beneath. Click *Add SSH key*. And type your Github password afterwards.
+#### 7. Go to github, click on you *account settings* -> *ssh and GPG keys*, *New SSH key* enter a name like *windows10* and paste the copied key beneath. Click *Add SSH key*. And may type your Github password afterwards.
 #### 8. On Github click on the dropdown menu with your username on the left side and choose *T-systems-Youngsters* and then click the green *new* button.
 #### 9. Enter the repository name. For us it's: `name-LOGIST` for Heiko it would be: `heiko-LOGIST`. Choose *public* and tick *Add a README file* and tick *Add .gitignore* -> choose C++ and click *create Repository*.
 #### 10. On the following page click the green *code* button click on *ssh* and copy the link.
