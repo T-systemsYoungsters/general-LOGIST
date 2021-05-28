@@ -1,6 +1,6 @@
 Max' Prakitkum geht vom 26.7. - 6.8.
 
-- git intro
+- git, PIO intro
 - jira, scrum intro
 - präse IoT projekt , mit code und demo
 - präse fom, studium bei der telekom
